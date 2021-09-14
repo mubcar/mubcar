@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mubcar
-- 👀 I’m interested in crypto
+- 👀 I’m interested in blockchain
 - 🌱 I’m currently learning decentralized applications development
 - 💞️ I’m looking to collaborate on some project related to that
 - 📫 How to reach me murilobort@gmail.com
